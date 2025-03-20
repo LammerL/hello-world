@@ -4,7 +4,7 @@
 
 ### help me
 
-some content
+[some content](https://lammerl.github.io/hello-world/)
 
 1. idk
 2. is
